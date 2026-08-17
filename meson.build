@@ -1,5 +1,5 @@
 # openos-uname — OPENOS 增强版 uname (ASCII logo + 系统信息)
-project('openos-uname', 'bash')
+project('openos-uname')
 
 # 安装为 openos-uname
 install_data('openos-uname.sh',
